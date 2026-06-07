@@ -109,16 +109,12 @@ If you're hiring on Upwork for **Claude / Anthropic API**, **RAG**, **MCP server
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NoobCoder1209&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NoobCoder1209&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&card_width=460" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NoobCoder1209&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&card_width=460" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics.svg" />
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobCoder1209&layout=compact&theme=tokyonight&hide_border=true&card_width=460&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobCoder1209&layout=compact&theme=default&hide_border=true&card_width=460&langs_count=8" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobCoder1209&layout=compact&theme=default&hide_border=true&card_width=460&langs_count=8" />
-</picture>
+<img alt="Top languages" src="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics-languages.svg" />
 
 </div>
 
