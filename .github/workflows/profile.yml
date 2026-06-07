@@ -84,6 +84,7 @@ jobs:
   metrics-languages:
     name: Generate languages SVG
     runs-on: ubuntu-latest
+    needs: metrics-overall
     steps:
       - name: Light theme
         uses: lowlighter/metrics@latest
@@ -97,7 +98,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, less
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           committer_branch: main
