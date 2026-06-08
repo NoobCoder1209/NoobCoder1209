@@ -109,12 +109,12 @@ If you're hiring on Upwork for **Claude / Anthropic API**, **RAG**, **MCP server
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics.svg" />
-  <img alt="GitHub stats" src="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoobCoder1209/profile-assets/main/assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoobCoder1209/profile-assets/main/assets/metrics.svg" />
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/NoobCoder1209/profile-assets/main/assets/metrics.svg" />
 </picture>
 
-<img alt="Top languages" src="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/main/assets/metrics-languages.svg" />
+<img alt="Top languages" src="https://raw.githubusercontent.com/NoobCoder1209/profile-assets/main/assets/metrics-languages.svg" />
 
 </div>
 
@@ -139,9 +139,9 @@ If you're hiring on Upwork for **Claude / Anthropic API**, **RAG**, **MCP server
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/NoobCoder1209/NoobCoder1209/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoobCoder1209/profile-assets/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoobCoder1209/profile-assets/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/NoobCoder1209/profile-assets/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
